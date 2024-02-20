@@ -1,18 +1,18 @@
 ---
-title: "Hugo Bootstrap Theme alpha"
-description: "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
+title: "Lego Landing Page"
+description: "A Page Dedicated To Lego."
 date: 2022-05-22T13:35:02+01:00
 draft: false
 images: ["site-feature-image.png"]
 categories: ["Hugo Bootstrap Theme"]
 tags: ["Hugo","Bootstrap","Featured"]
 keywords: ["hugo bootstrap theme"]
-authors: ["Filipe Carneiro"]
+authors: ["Peter P."]
 aliases:
   - hugo-bootstrap-theme-alpha
 ---
 
-> Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.
+> A Page for Lego.
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
