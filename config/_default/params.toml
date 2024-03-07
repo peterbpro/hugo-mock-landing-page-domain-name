@@ -6,8 +6,8 @@
 # https://schema.org/Thing
 # https://schema.org/Article
 description = "Building Brick by Brick."
-images = ['images/feather/847707-200.png','images/site-feature-image.png']
-mainMenuLogo = "images/feather/847707-200.png"
+images = ['content/847707-200-1.png','images/site-feature-image.png']
+mainMenuLogo = "content/847707-200-1.png"
 
 # For favicons
 ## Chrome Browser
