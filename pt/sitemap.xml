@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peterpro.github.io/hugo-mock-landing-page/pt/authors/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/pt/authors/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://peterpro.github.io/hugo-mock-landing-page/authors/"
+                href="http://localhost:1313/hugo-mock-landing-page/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="https://peterpro.github.io/hugo-mock-landing-page/pt/authors/"
+                href="http://localhost:1313/hugo-mock-landing-page/pt/authors/"
                 />
   </url><url>
-    <loc>https://peterpro.github.io/hugo-mock-landing-page/pt/categories/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/pt/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://peterpro.github.io/hugo-mock-landing-page/categories/"
+                href="http://localhost:1313/hugo-mock-landing-page/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="https://peterpro.github.io/hugo-mock-landing-page/pt/categories/"
+                href="http://localhost:1313/hugo-mock-landing-page/pt/categories/"
                 />
   </url><url>
-    <loc>https://peterpro.github.io/hugo-mock-landing-page/pt/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/pt/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://peterpro.github.io/hugo-mock-landing-page/"
+                href="http://localhost:1313/hugo-mock-landing-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="https://peterpro.github.io/hugo-mock-landing-page/pt/"
+                href="http://localhost:1313/hugo-mock-landing-page/pt/"
                 />
   </url><url>
-    <loc>https://peterpro.github.io/hugo-mock-landing-page/pt/series/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/pt/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://peterpro.github.io/hugo-mock-landing-page/series/"
+                href="http://localhost:1313/hugo-mock-landing-page/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="https://peterpro.github.io/hugo-mock-landing-page/pt/series/"
+                href="http://localhost:1313/hugo-mock-landing-page/pt/series/"
                 />
   </url><url>
-    <loc>https://peterpro.github.io/hugo-mock-landing-page/pt/tags/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/pt/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://peterpro.github.io/hugo-mock-landing-page/tags/"
+                href="http://localhost:1313/hugo-mock-landing-page/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="https://peterpro.github.io/hugo-mock-landing-page/pt/tags/"
+                href="http://localhost:1313/hugo-mock-landing-page/pt/tags/"
                 />
   </url>
 </urlset>

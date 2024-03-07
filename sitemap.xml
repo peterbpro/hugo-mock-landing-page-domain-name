@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://peterpro.github.io/hugo-mock-landing-page/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/en/sitemap.xml</loc>
     
       <lastmod>2024-03-06T19:37:26-05:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://peterpro.github.io/hugo-mock-landing-page/pt/sitemap.xml</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/pt/sitemap.xml</loc>
     
   </sitemap>
   
