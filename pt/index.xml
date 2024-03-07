@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lego Bricks</title>
-    <link>http://localhost:1313/pt/</link>
+    <link>https://peterbpro.github.io/hugo-mock-landing-page/pt/</link>
     <description>Recent content on Lego Bricks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-PT</language>
     <copyright>Peter P.</copyright>
-    <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peterbpro.github.io/hugo-mock-landing-page/pt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
