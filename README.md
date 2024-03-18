@@ -1,2 +1,1 @@
-# hugo-mock-landing-page
-Homework 1 Part IV
+This repository takes any update that is pushed to it from a local system and pushes it to a live github page. It is extremelty convenient as you do not need to run the individual commands and push it to the github pages. 
